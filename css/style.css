@@ -1,0 +1,62 @@
+.navbar
+{
+background-color: #365B6D !important;
+}
+.register
+{
+    background:rgb(168, 243, 57);
+    border:2px solid rgb(168, 243, 57);
+    color:white;
+    margin-right: 10px;
+}
+.register:hover
+{
+    background:rgb(168, 243, 57);
+    border:2px solid rgb(168, 243, 57);
+    color:white;
+}
+.login
+{
+    background-color: blue;
+}
+.register a
+{
+   display: block;
+   color: white;
+   text-decoration: none;
+}
+.register_wrapper
+{
+    margin-top: 30px;
+}
+.register_wrapper button
+{
+    margin:20px 0px 20px 0px;
+}
+.register_wrapper input, .register_wrapper textarea
+{
+    margin:10px;
+}
+.register_wrapper small
+{
+    display: block;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.login a
+{
+    display: block;
+    color:white;
+    text-decoration: none;
+}
+.logout a
+{
+    display: block;
+    color:white;
+    text-decoration: none;
+}
+.logout
+{
+    margin-left:10px;
+
+}
